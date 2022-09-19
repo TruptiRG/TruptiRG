@@ -12,11 +12,15 @@ Aspiring Back-End Developer.
 ![girl_anime_git](https://user-images.githubusercontent.com/101567088/191054310-00cf9b50-3747-4ea3-8318-e2dd644e253d.jpg)
 
 
-💻 **Skills**: \n
+💻 **Skills**: 
+
 FrontEnd Development:
 **HTML** , **CSS** , **javaScript**
+
 Backend Development:
 **Java** , **SQL/MySQL** , **spring-boot** , **Hibernate**
+
 Communication Skills:
 **Active Listening** , **Team Work** , **Collaboration** , **Adaptability**
+
 Data Structures and Algorithm.
