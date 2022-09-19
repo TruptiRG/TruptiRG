@@ -6,5 +6,5 @@ Aspiring Back-End Developer.
 - 📫 How to reach me: ... trupti16ghadekar@gmail.com
 - in (LinkedIn :  https://www.linkedin.com/in/trupti-ghadekar-9188ba138/ )
 - ⚡ Fun fact: ... other than coding love to Sing.
-- 👩‍💻 some of work available at https://trupti-ghadekar.netlify.app/ 
+- 👩‍💻 some of work available at https://truptirg.github.io/Trupti-Ghadekar.github.io/ 
 
