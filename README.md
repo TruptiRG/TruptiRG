@@ -13,3 +13,10 @@ Aspiring Back-End Developer.
 
 
 💻 **Skills**:
+FrontEnd Development:
+**HTML** , **CSS** , **javaScript**
+Backend Development:
+**Java** , **SQL/MySQL** , **spring-boot** , **Hibernate**
+Communication Skills:
+**Active Listening** , **Team Work** , **Collaboration** , **Adaptability**
+Data Structures and Algorithm.
