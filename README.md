@@ -28,4 +28,4 @@ Data Structures and Algorithm.
 
 
 
-- ⚡ Fun fact: ... other than coding love to Sing.
+- ⚡ Fun fact: ... other than coding love to **Sing** .
