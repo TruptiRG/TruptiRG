@@ -8,3 +8,6 @@ Aspiring Back-End Developer.
 - ⚡ Fun fact: ... other than coding love to Sing.
 - 👩‍💻 some of work available at https://truptirg.github.io/Trupti-Ghadekar.github.io/ 
 
+
+![girl_anime_git](https://user-images.githubusercontent.com/101567088/191054310-00cf9b50-3747-4ea3-8318-e2dd644e253d.jpg)
+
