@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Trupti,
+I'm **Trupti**,
 Aspiring Back-End Developer.
 
 - 🌱 I’m currently learning ... Java
