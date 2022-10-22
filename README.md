@@ -29,6 +29,7 @@ Data Structures and Algorithm.
 
  📊 Github stats
  
+ [![Trupti's github stats](https://github-readme-stats.vercel.app/api?username=TruptiRG)](https://github.com/TruptiRG/github-readme-stats)
 
 
 - ⚡ Fun fact: ... other than coding love to **Sing** .
