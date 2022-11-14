@@ -1,13 +1,18 @@
-Hi there 👋
-I'm **Trupti**,
-Aspiring Back-End Developer.
+Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+- 🌱 I'm **Trupti Ghadekar**,
+Aspiring **Java Backend Developer.**
+
+- 🌱 I am from **Amravati**, Maharashtra, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 🌱 I’m currently learning ... Java
-- 📫 You can contact me at: ... trupti16ghadekar@gmail.com
 
-- in (LinkedIn :  https://www.linkedin.com/in/trupti-ghadekar-9188ba138/ )
+- 📫 You can contact me at: 
+- [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="" width="35">](mailto:trupti16ghadekar@gmail.com)
+- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" width="32">](https://www.linkedin.com/in/trupti-ghadekar-9188ba138/)
 
-- 👩‍💻 some of work available at https://truptirg.github.io/Trupti-Ghadekar.github.io/ 
+- 👩‍💻 Some of work available at **<a href="https://truptirg.github.io/Trupti-Ghadekar.github.io/">Portfolio</a>**
+- 💼 See my resume **<a href="https://drive.google.com/file/d/1nNdOErx-1roOHqaRY6oxM4J0LCqmOzUp/view?usp=sharing">Resume</a>**
+- ⚡ Fun fact: ... other than coding love to **Sing** .
 
 
 ![girl_anime_git](https://user-images.githubusercontent.com/101567088/191054310-00cf9b50-3747-4ea3-8318-e2dd644e253d.jpg)
@@ -15,16 +20,16 @@ Aspiring Back-End Developer.
 
 💻 **Skills**: 
 
-FrontEnd Development:
-**HTML** , **CSS** , **javaScript**
+- **FrontEnd Development:** 
+ <img src="https://aws1.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" alt="" width="200">
 
-Backend Development:
+- **Backend Development:**
 **Java** , **SQL/MySQL** , **spring-boot** , **Hibernate**
 
-Communication Skills:
+- **Communication Skills:**
 **Active Listening** , **Team Work** , **Collaboration** , **Adaptability**
 
-Data Structures and Algorithm.
+- **Data Structures and Algorithm.**
 
 
  📊 Github stats
@@ -32,4 +37,4 @@ Data Structures and Algorithm.
  [![Trupti's github stats](https://github-readme-stats.vercel.app/api?username=TruptiRG)](https://github.com/TruptiRG/github-readme-stats)
 
 
-- ⚡ Fun fact: ... other than coding love to **Sing** .
+
