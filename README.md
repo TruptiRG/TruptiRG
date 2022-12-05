@@ -1,5 +1,5 @@
 Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
- - <h1>🌱I'm Trupti Ghadekar<h1/>
+ - <h1>👨‍💻I'm Trupti Ghadekar<h1/>
  - <h2> Aspiring Java Backend Developer.</h2>
  
 - 🌱 I am from **Amravati**, Maharashtra, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
