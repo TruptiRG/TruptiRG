@@ -12,8 +12,8 @@ Aspiring **Java Backend Developer.**
   
   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" width="32">](https://www.linkedin.com/in/trupti-ghadekar-9188ba138/)
 
-- 👩‍💻 Some of work available at **<a href="https://truptirg.github.io/Trupti-Ghadekar.github.io/">Portfolio</a>**
-- 💼 See my resume **<a href="https://drive.google.com/file/d/1nNdOErx-1roOHqaRY6oxM4J0LCqmOzUp/view?usp=sharing">Resume</a>**
+- 👩‍💻 Some of work available at **<a href="https://truptirg.github.io/Trupti-Ghadekar.github.io/" target="_blank">Portfolio</a>**
+- 💼 See my resume **<a href="https://drive.google.com/file/d/1nNdOErx-1roOHqaRY6oxM4J0LCqmOzUp/view?usp=sharing" target="_blank">Resume</a>**
 - ⚡ Fun fact: ... other than coding love to **Sing** .
   <hr/>
 
