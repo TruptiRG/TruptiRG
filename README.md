@@ -1,6 +1,6 @@
-Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
- - <h1>👨‍💻I'm Trupti Ghadekar<h1/>
- - <h2> Aspiring Java Backend Developer.</h2>
+**Hi there**  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+ - # 👨‍💻I'm Trupti Ghadekar
+ - ## Aspiring Java Backend Developer.
  
 - 🌱 I am from **Amravati**, Maharashtra, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -20,7 +20,7 @@ Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 ![girl_anime_git](https://user-images.githubusercontent.com/101567088/191054310-00cf9b50-3747-4ea3-8318-e2dd644e253d.jpg)
   <hr/>
 
-💻 **Skills**: 
+### 💻 **Skills**: 
 
 - **FrontEnd Development:** 
  <img src="https://aws1.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" alt="" width="200">
@@ -34,7 +34,7 @@ Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 - **Data Structures and Algorithm.**
 
 
- 📊 Github stats
+### 📊 Github stats
  
  [![Trupti's github stats](https://github-readme-stats.vercel.app/api?username=TruptiRG)](https://github.com/TruptiRG/github-readme-stats)
   <hr/>
